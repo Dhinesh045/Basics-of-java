@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaLearn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/finalKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable.java" afterDir="false" />
+    <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
+      <change afterPath="$PROJECT_DIR$/src/sannerClassTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,31 +33,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/gitcodes/javaLearn/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "D:/gitcodes/javaLearn/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
-  <component name="RunManager" selected="Application.stringExample">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+}]]></component>
+  <component name="RunManager" selected="Application.nameAndAge">
+    <configuration name="favouriteNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="favouriteNum" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataTypes" />
+    <configuration name="nameAndAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nameAndAge" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="finalKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="finalKey" />
+    <configuration name="sannerClassTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sannerClassTutorial" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable" />
+    <configuration name="stringObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringObject" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.nameAndAge" />
+        <item itemvalue="Application.sannerClassTutorial" />
+        <item itemvalue="Application.favouriteNum" />
+        <item itemvalue="Application.stringObject" />
         <item itemvalue="Application.stringExample" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.dataTypes" />
-        <item itemvalue="Application.finalKey" />
-        <item itemvalue="Application.variable" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +98,30 @@
       <option name="presentableId" value="Default" />
       <updated>1693381965055</updated>
     </task>
+    <task id="LOCAL-00001" summary="javaLearn">
+      <option name="closed" value="true" />
+      <created>1693468574576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693468574576</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="javaLearn" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaLearn" />
   </component>
 </project>
