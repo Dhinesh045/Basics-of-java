@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
-      <change afterPath="$PROJECT_DIR$/src/ifAndElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifElse1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switchStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ifAndElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifAndElse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ifAndElse">
+  <component name="RunManager" selected="Application.switchStatement">
     <configuration name="casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="casting" />
       <module name="javaLearn" />
@@ -71,15 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="incrementDecrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="incrementDecrement" />
-      <module name="javaLearn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="nameAndAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nameAndAge" />
+    <configuration name="ifElse1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifElse1" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,13 +87,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="switchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="switchStatement" />
+      <module name="javaLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.switchStatement" />
+        <item itemvalue="Application.ifElse1" />
         <item itemvalue="Application.ifAndElse" />
         <item itemvalue="Application.operators" />
         <item itemvalue="Application.casting" />
-        <item itemvalue="Application.incrementDecrement" />
-        <item itemvalue="Application.nameAndAge" />
       </list>
     </recent_temporary>
   </component>
