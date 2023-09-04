@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
-      <change afterPath="$PROJECT_DIR$/src/casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/finalKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/finalKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.casting">
+  <component name="RunManager" selected="Application.operators">
     <configuration name="casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="casting" />
       <module name="javaLearn" />
@@ -93,9 +95,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.operators" />
         <item itemvalue="Application.casting" />
         <item itemvalue="Application.incrementDecrement" />
-        <item itemvalue="Application.operators" />
         <item itemvalue="Application.nameAndAge" />
         <item itemvalue="Application.sannerClassTutorial" />
       </list>
