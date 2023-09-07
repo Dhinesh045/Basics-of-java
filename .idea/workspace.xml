@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
-      <change afterPath="$PROJECT_DIR$/src/loopConcept/loopEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loopConcept/loopEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loopConcept/loopEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodCalling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/passingArguments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loopConcept/loopEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopConcept/loopEx1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,79 +65,49 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.loopEx4">
-    <configuration name="loopEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loopConcept.loopEx" />
+  <component name="RunManager" selected="Application.methodEx1">
+    <configuration name="methodCalling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodCalling" />
       <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loopConcept.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loopEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loopConcept.loopEx1" />
+    <configuration name="methodEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodEx" />
       <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loopConcept.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loopEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loopConcept.loopEx2" />
+    <configuration name="methodEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodEx1" />
       <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loopConcept.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loopEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loopConcept.loopEx3" />
+    <configuration name="methodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodOverloading" />
       <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loopConcept.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loopEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loopConcept.loopEx4" />
+    <configuration name="passingArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="passingArguments" />
       <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loopConcept.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.loopEx4" />
-        <item itemvalue="Application.loopEx3" />
-        <item itemvalue="Application.loopEx2" />
-        <item itemvalue="Application.loopEx1" />
-        <item itemvalue="Application.loopEx" />
+        <item itemvalue="Application.methodEx1" />
+        <item itemvalue="Application.methodEx" />
+        <item itemvalue="Application.methodOverloading" />
+        <item itemvalue="Application.passingArguments" />
+        <item itemvalue="Application.methodCalling" />
       </list>
     </recent_temporary>
   </component>
