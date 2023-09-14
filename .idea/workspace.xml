@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
-      <change afterPath="$PROJECT_DIR$/src/findProductSumAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elemntsOccurance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fillingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fillingArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,14 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.fillingArray">
+  <component name="RunManager" selected="Application.elemntsOccurance">
+    <configuration name="elemntsOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elemntsOccurance" />
+      <module name="javaLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="fillingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fillingArray" />
       <module name="javaLearn" />
@@ -91,20 +97,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="varibleLengthArg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="varibleLengthArg" />
-      <module name="javaLearn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.elemntsOccurance" />
         <item itemvalue="Application.fillingArray" />
         <item itemvalue="Application.findProductSumAverage" />
         <item itemvalue="Application.interChange" />
         <item itemvalue="Application.fillingInputUser" />
-        <item itemvalue="Application.varibleLengthArg" />
       </list>
     </recent_temporary>
   </component>
@@ -174,30 +173,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="javaLearn" />
     <option name="LAST_COMMIT_MESSAGE" value="javaLearn" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/fillingArray.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/fillingArray.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/fillingArray.java</url>
-          <line>20</line>
-          <properties class="fillingArray" method="arrayFillBasedOnIndex">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
