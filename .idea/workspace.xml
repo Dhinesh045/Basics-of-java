@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
-      <change afterPath="$PROJECT_DIR$/src/fillingArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varibleLengthArg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.fillingArray">
+  <component name="RunManager" selected="Application.varibleLengthArg">
     <configuration name="arrayConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrayConcept" />
       <module name="javaLearn" />
@@ -90,26 +89,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primeOrnot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loopConcept.primeOrnot" />
+    <configuration name="varibleLengthArg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="varibleLengthArg" />
       <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loopConcept.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.varibleLengthArg" />
         <item itemvalue="Application.fillingArray" />
         <item itemvalue="Application.arrayEquals" />
         <item itemvalue="Application.interChange" />
         <item itemvalue="Application.arrayConcept" />
-        <item itemvalue="Application.primeOrnot" />
       </list>
     </recent_temporary>
   </component>
