@@ -1,5 +1,5 @@
 package loopConcept;
-public class loopEx {
+public class multiplicat_Table {
 //    multiplication table
     public static void main(String[] args) {
         for(int i=1;i<=10;i++){

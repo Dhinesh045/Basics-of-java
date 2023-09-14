@@ -1,4 +1,4 @@
-public class arrayConcept1 {
+public class interChange {
 //    arrays are passed by reference
     public static void main(String[] args) {
         int[] numbers={1,2};

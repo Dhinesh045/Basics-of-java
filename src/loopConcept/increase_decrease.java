@@ -1,10 +1,12 @@
 package loopConcept;
 
-public class loopEx1 {
+public class increase_decrease {
 // increasing and decreasing order
 public static void main(String[] args) {
 //    increasingOrder();
     decreasingorder();
+    System.out.println();
+    increasingOrder();
 }
 
     public static void increasingOrder() {

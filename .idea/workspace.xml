@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
-      <change afterPath="$PROJECT_DIR$/src/arrayConcept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayConcept1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopConcept/loopEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopConcept/multiplicat_Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopConcept/loopEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopConcept/increase_decrease.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopConcept/loopEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopConcept/exceeds_1000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopConcept/loopEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopConcept/multiplyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopConcept/loopEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopConcept/primeOrnot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +65,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.arraysMethod">
+  <component name="RunManager" selected="Application.arrayEquals">
     <configuration name="arrayConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrayConcept" />
       <module name="javaLearn" />
@@ -71,41 +73,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrayConcept1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayConcept1" />
+    <configuration name="arrayEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayEquals" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraysMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysMethod" />
+    <configuration name="interChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interChange" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodEx" />
+    <configuration name="multiplyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loopConcept.multiplyNumber" />
       <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loopConcept.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodEx1" />
+    <configuration name="primeOrnot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loopConcept.primeOrnot" />
       <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loopConcept.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arraysMethod" />
-        <item itemvalue="Application.arrayConcept1" />
+        <item itemvalue="Application.arrayEquals" />
+        <item itemvalue="Application.interChange" />
         <item itemvalue="Application.arrayConcept" />
-        <item itemvalue="Application.methodEx1" />
-        <item itemvalue="Application.methodEx" />
+        <item itemvalue="Application.primeOrnot" />
+        <item itemvalue="Application.multiplyNumber" />
       </list>
     </recent_temporary>
   </component>

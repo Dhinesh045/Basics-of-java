@@ -2,7 +2,7 @@ package loopConcept;
 
 import java.util.Scanner;
 
-public class loopEx4 {
+public class primeOrnot {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter a number: ");

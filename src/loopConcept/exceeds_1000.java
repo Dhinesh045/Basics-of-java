@@ -2,7 +2,7 @@ package loopConcept;
 
 import java.util.Scanner;
 
-public class loopEx2 {
+public class exceeds_1000 {
     public static void main(String[] args) {
 //        "done" when the output is exceeds 100.
         Scanner sc = new Scanner(System.in);

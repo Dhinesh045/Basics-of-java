@@ -2,7 +2,7 @@ package loopConcept;
 
 import java.util.Scanner;
 
-public class loopEx3 {
+public class multiplyNumber {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter a number");
