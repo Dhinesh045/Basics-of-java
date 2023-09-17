@@ -8,7 +8,8 @@ public class TransferValue
         int sub=calculator.sub(4,1);
         int multiply=calculator.multiply(3,6);
         int divide=calculator.divide(100,10);
-        System.out.println(add+" "+sub+" "+multiply+" "+divide);
+        double power=calculator.power(3,3);
+        System.out.println(add+" "+sub+" "+multiply+" "+divide+" "+power);
 
     }
 

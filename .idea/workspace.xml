@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
-      <change afterPath="$PROJECT_DIR$/src/inheritanceConcept/AdvanceCal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritanceConcept/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritanceConcept/TransferValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritanceConcept/veryAdvanceCalc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
