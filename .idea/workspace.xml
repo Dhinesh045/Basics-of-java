@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
+      <change afterPath="$PROJECT_DIR$/src/inheritanceConcept/AdvanceCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritanceConcept/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritanceConcept/TransferValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructor/Overload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor/Overload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructor/ValueOfData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor/ValueOfData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,33 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Overload">
+  <component name="RunManager" selected="Application.TransferValue">
+    <configuration name="Calc$Value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritanceConcept.Calc$Value" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritanceConcept.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritanceConcept.Calc" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritanceConcept.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GetAndSetValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="constructor.GetAndSetValues" />
       <module name="javaLearn" />
@@ -72,13 +99,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodCalling1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodCalling1" />
-      <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,25 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructor.Student5" />
+    <configuration name="TransferValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritanceConcept.TransferValue" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValueOfData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructor.ValueOfData" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="constructor.*" />
+          <option name="PATTERN" value="inheritanceConcept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Overload" />
-        <item itemvalue="Application.Student5" />
+        <item itemvalue="Application.TransferValue" />
+        <item itemvalue="Application.Calc$Value" />
+        <item itemvalue="Application.Calc" />
         <item itemvalue="Application.GetAndSetValues" />
-        <item itemvalue="Application.ValueOfData" />
-        <item itemvalue="Application.MethodCalling1" />
+        <item itemvalue="Application.Overload" />
       </list>
     </recent_temporary>
   </component>
