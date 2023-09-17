@@ -8,14 +8,16 @@ public class ValueOfData {
     String name;
     float salary;
 
-    ValueOfData(int id,String name){
+    void ValueOfData(int id,String name){
         this.id=id;
         this.name=name;
+        System.out.println(id+" "+name);
     }
-    ValueOfData(int id, String name,float salary){
+  void ValueOfData(int id, String name,float salary){
         this.id=id;
         this.name=name;
         this.salary=salary;
+      System.out.println(id+" "+name+" "+salary);
 
     }
 
