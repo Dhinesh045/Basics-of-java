@@ -6,7 +6,7 @@ public class TransferValue {
         int i=calc.add(3,4);
         System.out.println(i);
         Calc cal=new Calc();
-        int n2=cal.add(2,4);
+        int n2=cal.add(3,4);
         System.out.println(n2);
     }
 }

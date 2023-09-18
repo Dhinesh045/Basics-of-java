@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
-      <change afterPath="$PROJECT_DIR$/src/DynamicMethods/getValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicMethods/method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicMethods/method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicMethods/method3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OverRiding/Adcalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OverRiding/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OverRiding/TransferValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractKeyword/getValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractKeyword/school.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractKeyword/school2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractKeyword/school3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructor/Overload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor/Overload.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +64,13 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.getValue">
-    <configuration name="Calc$Value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceConcept.Calc$Value" />
+  <component name="RunManager" selected="Application.OverRiding.TransferValue">
+    <configuration name="AbstractKeyword.getValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractKeyword.getValue" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritanceConcept.*" />
+          <option name="PATTERN" value="AbstractKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.getValue" />
         <item itemvalue="Application.OverRiding.TransferValue" />
+        <item itemvalue="Application.AbstractKeyword.getValue" />
+        <item itemvalue="Application.getValue" />
         <item itemvalue="Application.Overload" />
         <item itemvalue="Application.TransferValue" />
-        <item itemvalue="Application.Calc$Value" />
       </list>
     </recent_temporary>
   </component>
