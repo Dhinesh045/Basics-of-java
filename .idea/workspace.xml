@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
-      <change afterPath="$PROJECT_DIR$/src/InterfaceKeyword/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnumPractice/LaptopWithPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnumPractice/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnumPractice/SwitchEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/TryWithMultipleCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -67,7 +72,7 @@
       <recent name="mainMethodOverloading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InterfaceKeyword.Example">
+  <component name="RunManager" selected="Application.LaptopWithPrice">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TryCatch.Example" />
       <module name="javaLearn" />
@@ -81,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceKeyword.Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceKeyword.Example" />
+    <configuration name="LaptopWithPrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumPractice.LaptopWithPrice" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterfaceKeyword.*" />
+          <option name="PATTERN" value="EnumPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverRiding.TransferValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OverRiding.TransferValue" />
+    <configuration name="Status" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumPractice.Status" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OverRiding.*" />
+          <option name="PATTERN" value="EnumPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="giveValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Overloading.giveValues" />
+    <configuration name="SwitchEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumPractice.SwitchEnum" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Overloading.*" />
+          <option name="PATTERN" value="EnumPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mainMethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="overloading.mainMethodOverloading" />
+    <configuration name="TryWithMultipleCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.TryWithMultipleCatch" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="overloading.*" />
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InterfaceKeyword.Example" />
+        <item itemvalue="Application.LaptopWithPrice" />
+        <item itemvalue="Application.SwitchEnum" />
+        <item itemvalue="Application.Status" />
+        <item itemvalue="Application.TryWithMultipleCatch" />
         <item itemvalue="Application.Example" />
-        <item itemvalue="Application.OverRiding.TransferValue" />
-        <item itemvalue="Application.giveValues" />
-        <item itemvalue="Application.mainMethodOverloading" />
       </list>
     </recent_temporary>
   </component>
