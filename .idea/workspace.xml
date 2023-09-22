@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
-      <change afterPath="$PROJECT_DIR$/src/EnumPractice/LaptopWithPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EnumPractice/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EnumPractice/SwitchEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/TryWithMultipleCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThisAndSuper/Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -72,13 +68,13 @@
       <recent name="mainMethodOverloading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LaptopWithPrice">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TryCatch.Example" />
+  <component name="RunManager" selected="Application.B">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThisAndSuper.B" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TryCatch.*" />
+          <option name="PATTERN" value="ThisAndSuper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B" />
         <item itemvalue="Application.LaptopWithPrice" />
         <item itemvalue="Application.SwitchEnum" />
         <item itemvalue="Application.Status" />
         <item itemvalue="Application.TryWithMultipleCatch" />
-        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
