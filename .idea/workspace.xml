@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
-      <change afterPath="$PROJECT_DIR$/src/constructor/copyConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/output.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +70,7 @@
       <recent name="mainMethodOverloading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GFG">
+  <component name="RunManager" selected="Application.output">
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThisAndSuper.B" />
       <module name="javaLearn" />
@@ -108,19 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Status" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnumPractice.Status" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EnumPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SwitchEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnumPractice.SwitchEnum" />
       <module name="javaLearn" />
@@ -134,13 +123,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.output" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.output" />
         <item itemvalue="Application.GFG" />
         <item itemvalue="Application.B" />
         <item itemvalue="Application.LaptopWithPrice" />
         <item itemvalue="Application.SwitchEnum" />
-        <item itemvalue="Application.Status" />
       </list>
     </recent_temporary>
   </component>
