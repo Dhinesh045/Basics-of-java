@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
-      <change afterPath="$PROJECT_DIR$/src/threads/example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/output.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threads/example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threads/example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threads/example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threads/example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threads/output.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threads/output.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
