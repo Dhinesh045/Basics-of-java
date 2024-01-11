@@ -11,7 +11,7 @@ public class example {
         System.out.println(val1+val2+val3);
 
     }
-    void value1(int v1, int v2){
+    void value(int v1, int v2){
         this.i1=v1;
         this.i2=v2;
         System.out.println(v1+v2);

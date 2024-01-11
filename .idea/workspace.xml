@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fc77cb-2df7-4f9a-b175-158d6c1a6a8a" name="Changes" comment="javaLearn">
+      <change afterPath="$PROJECT_DIR$/src/lambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threads/example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threads/example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threads/example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threads/example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threads/output.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threads/output.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Overloading/example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overloading/example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Overloading/giveValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overloading/giveValues.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +70,13 @@
       <recent name="mainMethodOverloading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.output">
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThisAndSuper.B" />
+  <component name="RunManager" selected="Application.lambda">
+    <configuration name="TransferValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverRiding.TransferValue" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThisAndSuper.*" />
+          <option name="PATTERN" value="OverRiding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructor.GFG" />
+    <configuration name="getValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractKeyword.getValue" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructor.*" />
+          <option name="PATTERN" value="AbstractKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LaptopWithPrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnumPractice.LaptopWithPrice" />
+    <configuration name="giveValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Overloading.giveValues" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EnumPractice.*" />
+          <option name="PATTERN" value="Overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,15 +110,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnumPractice.SwitchEnum" />
+    <configuration name="lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda" />
       <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EnumPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lambda" />
+        <item itemvalue="Application.giveValues" />
+        <item itemvalue="Application.TransferValue" />
+        <item itemvalue="Application.getValue" />
         <item itemvalue="Application.output" />
-        <item itemvalue="Application.GFG" />
-        <item itemvalue="Application.B" />
-        <item itemvalue="Application.LaptopWithPrice" />
-        <item itemvalue="Application.SwitchEnum" />
       </list>
     </recent_temporary>
   </component>
